@@ -1,4 +1,4 @@
 git add --all
-git commit -m "inicio do projeto"
+git commit -m "projetosdjnago"
 git push -u origin master
 pause
